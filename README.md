@@ -1,5 +1,4 @@
 # JProject
-Various Project
 
 * Copy "pixel.php" file into your local web server.
 * Open "localhost/pixel.php" in web browser.
