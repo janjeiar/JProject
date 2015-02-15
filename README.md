@@ -2,7 +2,7 @@
 Various Project
 
 * Copy "pixel.php" file into your local web server.
-* Open "<localhost/directory>/pixel.html" in web browser.
+* Open "localhost/pixel.php" in web browser.
 * Below are lists of valid input commands:
   
 > I M N (e.g. I 5 6)
